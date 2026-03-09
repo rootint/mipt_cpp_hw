@@ -60,11 +60,11 @@ int main()
         {
             auto function =
 
-                boost::dll::import_alias < void() > (path, "test");
+                boost::dll::import_symbol < void() > (path, "test");
 
 //          --------------------------------------------------------------------
 
-            (*function)();
+            function();
         }
         catch (std::exception const & exception)
         {

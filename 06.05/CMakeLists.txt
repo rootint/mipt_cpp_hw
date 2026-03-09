@@ -22,8 +22,7 @@ add_library(shared_v2 SHARED source/shared_v2.cpp)
 
 ################################################################################
 
-target_link_libraries(shared_v1 PRIVATE Boost::filesystem)
-target_link_libraries(shared_v2 PRIVATE Boost::filesystem)
+# shared_v1 and shared_v2 have no dependencies
 
 ################################################################################
 

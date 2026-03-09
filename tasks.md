@@ -16,11 +16,11 @@ Ivan Makarov, [9 Mar 2026 at 14:51:59]:
 
 [](05.05.cpp) - done
 [](06.04.cpp) - done
-[](06.05.cpp) 
+[](06.05.cpp) - done
 [](07.01.cpp) - done
-[](07.02.cpp) 
+[](07.02.cpp) - done
 [](07.03.cpp) - done
-[](07.04.cpp) 
+[](07.04.cpp) - done
 [](07.05.cpp) 
 [](08.01.cpp) - done
 [](08.02.cpp) 

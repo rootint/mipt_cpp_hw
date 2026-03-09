@@ -92,7 +92,6 @@ shared_v1_EXTERNAL_OBJECTS =
 
 bin/libshared_v1.so: CMakeFiles/shared_v1.dir/source/shared_v1.cpp.o
 bin/libshared_v1.so: CMakeFiles/shared_v1.dir/build.make
-bin/libshared_v1.so: /usr/local/lib/libboost_filesystem.a
 bin/libshared_v1.so: CMakeFiles/shared_v1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/root/mipt_cpp_hw/06.05/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library bin/libshared_v1.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/shared_v1.dir/link.txt --verbose=$(VERBOSE)
