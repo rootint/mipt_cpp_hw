@@ -1,0 +1,5 @@
+/root/mipt_cpp_hw/06.05/build/CMakeFiles/shared_v1.dir
+/root/mipt_cpp_hw/06.05/build/CMakeFiles/shared_v2.dir
+/root/mipt_cpp_hw/06.05/build/CMakeFiles/main.dir
+/root/mipt_cpp_hw/06.05/build/CMakeFiles/edit_cache.dir
+/root/mipt_cpp_hw/06.05/build/CMakeFiles/rebuild_cache.dir
